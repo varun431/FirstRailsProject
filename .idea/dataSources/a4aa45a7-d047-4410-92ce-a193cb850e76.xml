@@ -6,20 +6,16 @@
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
-    <schema id="3" parent="1" name="book_development"/>
-    <schema id="4" parent="1" name="book_production"/>
-    <schema id="5" parent="1" name="book_test"/>
-    <schema id="6" parent="1" name="firstrailsproject_development"/>
-    <schema id="7" parent="1" name="firstrailsproject_production"/>
-    <schema id="8" parent="1" name="information_schema"/>
-    <schema id="9" parent="1" name="library_development"/>
-    <schema id="10" parent="1" name="library_production"/>
-    <schema id="11" parent="1" name="library_test"/>
-    <schema id="12" parent="1" name="mysql"/>
-    <schema id="13" parent="1" name="performance_schema"/>
-    <schema id="14" parent="1" name="rubyproject_development"/>
-    <schema id="15" parent="1" name="rubyproject_production"/>
-    <schema id="16" parent="1" name="rubyproject_test"/>
-    <schema id="17" parent="1" name="sys"/>
+    <schema id="3" parent="1" name="firstrailsproject_development"/>
+    <schema id="4" parent="1" name="firstrailsproject_production"/>
+    <schema id="5" parent="1" name="information_schema"/>
+    <schema id="6" parent="1" name="mysql"/>
+    <schema id="7" parent="1" name="performance_schema"/>
+    <schema id="8" parent="1" name="rubyproject_development"/>
+    <schema id="9" parent="1" name="rubyproject_production"/>
+    <schema id="10" parent="1" name="rubyproject_test"/>
+    <schema id="11" parent="1" name="sys"/>
+    <schema id="12" parent="1" name="sakila"/>
+    <schema id="13" parent="1" name="world"/>
   </database-model>
 </dataSource>
